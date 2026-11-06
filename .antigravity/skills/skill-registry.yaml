@@ -7,8 +7,8 @@ skills:
   name: Historical Intervention & Canal Concession Audit
   status: ACTIVE
   manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: nicaraguan-restitution-roadmap-and-qsf-trust-execution
-  name: Nicaraguan Restitution Roadmap & QSF Trust Execution
+- id: kiowa-tribe-previously-listed-as-kiowa-ian-restitution-roadmap-and-qsf-trust-execution
+  name: Kiowa Tribe Previously Listed As Kiowa Ian Restitution Roadmap & QSF Trust Execution
   status: ACTIVE
-  manifest_file: .antigravity/skills/nicaraguan-restitution-roadmap-and-qsf-trust-execution.yaml
+  manifest_file: .antigravity/skills/kiowa-tribe-previously-listed-as-kiowa-ian-restitution-roadmap-and-qsf-trust-execution.yaml
 total_skills: 3
